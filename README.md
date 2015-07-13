@@ -1,2 +1,2 @@
 # git
-Study git record
+the records of studying git
